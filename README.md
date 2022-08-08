@@ -1,4 +1,3 @@
-[![MasterHead](https://thumbs.gfycat.com/BestMeagerHoki-size_restricted.gif)](https://Daniyal-Aslam.io)
 <h1 align="center">Hey ,This is Daniyal Aslam</h1>
 <h3 align="center">I'm a Software Engineer and motivated Developer. I specialize in Front-end development </h3>
 <img src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" align="right" width="400" alt="Daniyal Aslam Front-end Developer">
@@ -13,7 +12,7 @@
 
 - 💎 About me [https://daniyal-aslam.github.io/daniyalaslam.github.io/#about](https://daniyal-aslam.github.io/daniyalaslam.github.io/#about)
 
-- ⚡ Fun fact **Strong in design and integration with intuitive problem-solving skills. Proficient in Web & Mobile application development as a Front-end developer. Passionate about implementing and launching new projects. Ability to write efficient code and make responsive apps.**
+- ⚡ Fun fact **Strong in design and integration with intuitive problem-solving skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
