@@ -1,4 +1,3 @@
-<h1 align="center">Hey ,This is Daniyal Aslam</h1>
 <h3 align="center">I'm a Software Engineer and I specialize in Front-end development </h3>
 <img src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" align="right" width="400" alt="Daniyal Aslam Front-end Developer">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyal-aslam&label=Profile%20views&color=0e75b6&style=flat" alt="daniyal-aslam" /> </p>
