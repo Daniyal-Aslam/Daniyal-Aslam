@@ -1,5 +1,5 @@
-<h3 align="center">I'm a Software Engineer and I specialize in Front-end development </h3>
-<img src="https://www.computerhope.com/jargon/j/javascript.png" align="right" width="400" alt="Daniyal Aslam Front-end Developer"> 
+<h2 align="center">Javascript Developer </h2>
+<img src="https://www.computerhope.com/jargon/j/javascript.png" align="right" width="200" alt="Daniyal Aslam Front-end Developer"> 
 <p align="left"> <a href="https://twitter.com/daniyal84860142" target="blank"><img src="https://img.shields.io/twitter/follow/daniyal84860142?logo=twitter&style=for-the-badge" alt="daniyal84860142" /></a> </p>
  
 - Talk About **Front-end,HTML5,CSS3,Es6,Reactjs,React native**
