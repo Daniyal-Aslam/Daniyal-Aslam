@@ -1,15 +1,12 @@
 <h3 align="center">I'm a Software Engineer and I specialize in Front-end development </h3>
-<img src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" align="right" width="400" alt="Daniyal Aslam Front-end Developer">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyal-aslam&label=Profile%20views&color=0e75b6&style=flat" alt="daniyal-aslam" /> </p>
+<img src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" align="right" width="400" alt="Daniyal Aslam Front-end Developer"> 
 <p align="left"> <a href="https://twitter.com/daniyal84860142" target="blank"><img src="https://img.shields.io/twitter/follow/daniyal84860142?logo=twitter&style=for-the-badge" alt="daniyal84860142" /></a> </p>
  
-- 💎 Portfolio [https://daniyal-aslam.github.io/daniyalaslam.github.io/](https://daniyal-aslam.github.io/daniyalaslam.github.io/)
-
 - Talk About **Front-end,HTML5,CSS3,Es6,Reactjs,React native**
 
--  How to reach me **daniyalaslam544@gmail.com**
+-  How to reach me **daniyalaslam544@gmail.com** 
 
--  About me [https://daniyal-aslam.github.io/daniyalaslam.github.io/#about](https://daniyal-aslam.github.io/daniyalaslam.github.io/#about)
+-  About me [https://daniyal-aslam.github.io/daniyalaslam.github.io/#about](https://daniyal-aslam.github.io/daniyalaslam.github.io)
 
 - ⚡ Fun fact **Strong in design and integration with intuitive problem-solving skills.**
 
