@@ -9,7 +9,7 @@
 -  About me [https://daniyal-aslam.github.io/daniyalaslam.github.io/#about](https://daniyal-aslam.github.io/daniyalaslam.github.io) 
 
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniyal-aslam&show_icons=true&locale=en&layout=compact" alt="daniyal-aslam" /></p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniyal-aslam&show_icons=true&locale=en&layout=compact" alt="daniyal-aslam" /></p>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +21,7 @@
 <a href="https://www.youtube.com/c/youtube.com/channel/ucc5o54of111n_jq1p_danfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/channel/ucc5o54of111n_jq1p_danfa" height="30" width="40" /></a>
 </p>
  
- <h3>Certification</h3>
+ <h3 align="center" >Certification</h3>
  
 <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmRh00EMDhjCaM5-iq9VsjiueQbDG2ljiLeJuGrQQrndPAMatsa0cvwBmHAd-zTRzoPFSJIA0Yw=w1600-h789" align="right" width="300" alt="Daniyal Aslam Front-end Developer"> 
 
