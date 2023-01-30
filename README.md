@@ -6,7 +6,7 @@
 
 -  How to reach me **daniyalaslam544@gmail.com** 
 
--  About me [https://daniyal-aslam.github.io/daniyalaslam.github.io/#about](https://daniyal-aslam.github.io/daniyalaslam.github.io) 
+-  About me [https://daniyalaslam.com/] Daniyal Aslam
 
 <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniyal-aslam&show_icons=true&locale=en&layout=compact" alt="daniyal-aslam" /></p>
