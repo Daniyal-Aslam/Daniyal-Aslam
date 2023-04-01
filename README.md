@@ -4,7 +4,7 @@
 <div style="text-align:center;  font-family: 'Poppins', sans-serif;">
 <h1 align="center" style="text-align:center;  font-family: 'Poppins', sans-serif;">JavaScript Developer </h1>
  
- <h4 align="center">If you would like to obtain more details, please do not hesitate to reach out to me.</h4>
+ <h4>If you would like to obtain more details, please do not hesitate to reach out to me.</h4>
   <a align="center" style="text-align:center; " href="https://daniyalaslam.com/" target="_blank"> Daniyal Aslam </a>
 </div>
 
