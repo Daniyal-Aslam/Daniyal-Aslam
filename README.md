@@ -5,6 +5,6 @@
 <h1 style="text-align:center;  font-family: 'Poppins', sans-serif;">JavaScript Developer </h1>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="150" height="150"/> 
  <h4>If you would like to obtain more details, please do not hesitate to reach out to me.</h4>
-  <a align="center" style="text-align:center; " href="https://daniyalaslam.com/" target="_blank"> Daniyal Aslam </a>
+  <a align="center" style="text-align:center; " href="https://daniyalaslam.me/" target="_blank"> Daniyal Aslam </a>
 </div>
 
